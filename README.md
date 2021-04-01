@@ -1,12 +1,12 @@
 # Tip-Calculator-App
 
-# Pre-work - Tipping
+# Pre-work - Tip Calc.
 
 A Tip Calculator application for iOS.
 
 Submitted by: Leandro Gamarra
 
-Time spent: **6** hours spent in total
+Time spent: **7** hours spent in total
 
 ## User Stories
 
@@ -35,9 +35,9 @@ Here's a walkthrough of implemented user stories:
 
 ## Notes
 
-As to any challenges that I faced in building this app, although I have taken the Intro to App Development class provided by CodePath, I still had trouble understanding all the functions and UI used in this pre-work. Specifically, I've never played around with Segmented Controls so that was very fun and challenging. The most challenging part was the optional features. I took a lot of time trying to try to implement them but I just couldn't get them to work. Much of the optionals were up to me so I had to do some research and try to learn as I go, yet that proved to be too difficult for me. In short, this project had many obstacles that I had to overcome, some I did, others I didn't, but you learn from your mistakes. 
+As to any challenges that I faced in building this app, although I have taken the Intro to App Development class provided by CodePath, I still had trouble understanding all the functions and UI used in this pre-work. Specifically, I've never played around with Segmented Controls so that was very fun and challenging trying to navigate how it functions. The most challenging part was probably the optional features. I took a lot of time trying to try to implement them but I just couldn't get them to work. Much of the optional parts were new to me so I had to do some research and try to learn as I go, yet that proved to be too difficult for me. In short, this project had many obstacles that I had to overcome, some I did, others I didn't, but you learn from your mistakes. This will definitely not be the last time that I touch this app. I know I can do so much more with it.
 
-In terms of the pros that I got out of this project, I now have my very own Tip Calculator on my phone, which I can use at any time. Moreover, this project has pushed me to read a 960 page Swift textbook on learning all there is to know about Swift. I am up to Chapter 3.5 thus far and I am enjoying it very much. It has just motivated more to building IOS apps. Lastly, I know I have learned many new things that I can use in future apps and I can always come back and update my Tip Calculator App as I learn more about Swift. Thank you for this opportunity.
+In terms of the pros that I got out of this project, I now have my very own Tip Calculator on my phone, which I can use at any time. Moreover, this project has pushed me to read a 960 page Swift textbook on learning all there is to know about Swift. I am up to Chapter 3.5 thus far and I am enjoying it very much. It has just motivated more to build IOS apps. Lastly, I know I have learned many new things that I can use in future apps and I can always come back and update my Tip Calculator App as I learn more about Swift. Thank you for this opportunity.
 
 ## License
 
